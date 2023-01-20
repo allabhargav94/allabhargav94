@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @allabhargav94
+- 👋 Hi, I’m alla bhargav working as a senior consultant at IBM,
 - 👀 I’m interested in Salesforce LWC,
-- 🌱 I’m currently learning and working LWC components.
+- 🌱 I’m currently learning and working on LWC components.
 - 💞️ I’m looking to collaborate on LWC developments,
 - 📫 How to reach me write a mail allabhargav94@gmail.com
 
